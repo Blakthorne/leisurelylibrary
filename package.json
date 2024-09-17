@@ -1,5 +1,5 @@
 {
-  "name": "viewmylibrary",
+  "name": "leisurelylibrary",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,6 +12,7 @@
     "next": "14.2.9",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.6",
+    "prisma": "^5.19.1",
     "react": "^18",
     "react-dom": "^18"
   },
